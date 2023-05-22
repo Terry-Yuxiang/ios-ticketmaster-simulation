@@ -25,4 +25,4 @@ In venue tab, you can see more information about this venue.
 Click "Show venue on maps" button to see the venue location through apple map.
 
 ## App show video
-Youtube: 
+Youtube: https://youtu.be/lnREpQenEAI
