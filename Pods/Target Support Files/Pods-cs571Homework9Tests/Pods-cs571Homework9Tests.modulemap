@@ -1,0 +1,6 @@
+framework module Pods_cs571Homework9Tests {
+  umbrella header "Pods-cs571Homework9Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
